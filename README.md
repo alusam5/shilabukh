@@ -5,6 +5,6 @@
 - 📫 How to reach me @THEleggendd on twitter
 
 <!---
-shilabukh/shilabukh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+alusa/alusa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
